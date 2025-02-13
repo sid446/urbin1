@@ -38,7 +38,7 @@ logo3.addEventListener('mouseenter',()=>{
 logo3.addEventListener('mouseleave',()=>{
     logo3.style.transform='scale(1)';
     logo3.style.transition='0.5s ease';
-    logo3.style.marginRight='0';
+    logo3.style.marginRight='1';
 
 })
 let logo4=document.getElementById('box4');
